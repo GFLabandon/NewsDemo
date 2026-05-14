@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+drawable bg_placeholder
+drawable bg_skeleton_block
+id buttonLoadMoreRetry
+id buttonOpenLink
+id buttonRetry
+id editSearch
+id imageDetail
+id imageNews
+id progressLoadMore
+id recyclerViewNews
+id skeletonContainer
+id swipeRefreshLayout
+id textDetailTitle
+id textError
+id textPageTitle
+id textSummary
+id textTitle
+layout activity_detail
+layout activity_main
+layout item_news
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Theme.NewsDemo
